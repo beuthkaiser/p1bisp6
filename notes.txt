@@ -1,0 +1,10 @@
+texturing: ui toggle for texture
+
+TEXTURE
+	// Public API.
+	exports.create = create;
+	// Procedural sample functions.
+	exports.sampleProceduralRGB = sampleProceduralRGB;
+    
+NODE
+ create
