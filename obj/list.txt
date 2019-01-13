@@ -1,4 +1,0 @@
-terrifyingCube terrifyingCube.png
-PlaneTextured uvTest.jpg
-computer computer.png
-ChessPiece 
